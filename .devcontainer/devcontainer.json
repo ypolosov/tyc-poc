@@ -1,5 +1,5 @@
 {
-	"name": "Kong POC container",
+	"name": "Tyk POC container",
 	"build": {
 		"context": "..",
 		"dockerfile": "./Dockerfile.devcontainer",
